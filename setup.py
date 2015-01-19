@@ -33,6 +33,10 @@ setup(name='interfaithclimate.policy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
+	  'Products.ContentWellPortlets',
+	  'collective.contentleadimage',
+	  'Products.Collage',
+          'sc.social.likes',
           # -*- Extra requirements: -*-
       ],
       extras_require={
