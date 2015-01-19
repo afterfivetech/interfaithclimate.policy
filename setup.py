@@ -36,7 +36,7 @@ setup(name='interfaithclimate.policy',
 	  'Products.ContentWellPortlets',
 	  'collective.contentleadimage',
 	  'Products.Collage',
-          'sc.social.likes',
+          'sc.social.like',
           # -*- Extra requirements: -*-
       ],
       extras_require={
