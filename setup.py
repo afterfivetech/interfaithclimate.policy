@@ -37,6 +37,12 @@ setup(name='interfaithclimate.policy',
 	  'collective.contentleadimage',
 	  'Products.Collage',
           'sc.social.like',
+          'Products.PloneFormGen',
+          'Products.EasyNewsletter',
+          'quintagroup.dropdownmenu',
+          'collective.disqus',
+          'quintagroup.pfg.captcha',
+
           # -*- Extra requirements: -*-
       ],
       extras_require={
