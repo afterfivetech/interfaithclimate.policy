@@ -42,7 +42,7 @@ setup(name='interfaithclimate.policy',
           'quintagroup.dropdownmenu',
           'collective.disqus',
           'quintagroup.pfg.captcha',
-
+          'interfaithclimate.theme',   
           # -*- Extra requirements: -*-
       ],
       extras_require={
