@@ -4,6 +4,12 @@
 - Nothing changed yet.
 
 
+1.1 (unreleased)
+----------------
+
+- Nothing changed yet.
+
+
 Changelog
 =========
 
