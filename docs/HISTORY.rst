@@ -1,4 +1,4 @@
-1.1 (unreleased)
+1.1 (2015-03-11)
 ----------------
 
 - Nothing changed yet.
